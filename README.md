@@ -1,2 +1,2 @@
-# Project1
-Cyber and Network Security Bootcamp Project #1
+# Linux
+All system configuration scripts
