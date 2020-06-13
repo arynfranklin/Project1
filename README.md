@@ -14,4 +14,5 @@ The following describes how to deploy the project and access the network:
 6. Still in the Ansible container, SSH into ELK-VM3 using the IP address
 7. Navigate to http://[VM.IP]:5601. Use the public IP address of the ELK server that you created.
 8. To confirm that the ELK stack was receiving logs. Navigate back to the Filebeat installation page on the ELK server GUI 
-9. If the ELK stack was successfully receiving logs, you would have seen:
+9. If the ELK stack was successfully receiving logs, you would have seen a confirmation
+10. To verify that the Metricbeat installation works as expected, navigate to the Metricbeat installation page in the ELK server GUI. You would have seen a confirmation at the bottom of the page.
